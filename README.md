@@ -1,5 +1,5 @@
 # Oval-Draw-Plus Credits & Refrences
-
+Amajla Kajtazovic | OvalDrawPlus | amajlakajtazovic@lewisu.edu
 Graphics - 
 For graphics, I used aa North Texas University Graphics tutorial webpage to learn about the graphics class. Anything involving graphics and shapes in my code was pulled from this website.
 
@@ -11,4 +11,7 @@ This "idea" was examined in the example code.
 
 WindowEvent and WindowListener to print closing statement when JPanel is closed - 
 This was examined by a StackOverFlow post by user9643348.
+
+Execution Instructions:
+- Simply compile in terminal and execute (:
 
