@@ -1,4 +1,4 @@
-# Oval-Draw-Plus Credits & Refrences
+# Oval-Draw-Plus Credits & References
 Amajla Kajtazovic | OvalDrawPlus | amajlakajtazovic@lewisu.edu
 
 
